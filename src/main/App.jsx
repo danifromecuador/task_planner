@@ -1,7 +1,6 @@
-import './App.css'
+import './styles/App.css'
 
 export const App = () => {
-  console.log(".app was rendered");
 
   return (
     <div className="app">
